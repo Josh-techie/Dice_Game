@@ -23,21 +23,21 @@ The Dice Game component is a React-based web application that simulates a dice g
 
 ## Use the  App
 
-   -- This is the main page:
+### This is the main page:
     ![Alt text](image.png)
 
-   - After rolling you get the following:
+### After rolling you get the following:
    ![Alt text](image-1.png)
 
 ## Keep in mind the winnig face is 4:
 
-After, rolling I get the corresponding face: 
+### After, rolling I get the corresponding face: 
    ![Alt text](image-2.png)
 
-Here I got the winning face:
+### Here I got the winning face:
    ![Alt text](image-3.png)
 
-Then use the rest button to play again:
+### Then use the rest button to play again:
    ![Alt text](image-4.png)
 
 ## Author:
