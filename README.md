@@ -18,17 +18,18 @@ The Dice Game component is a React-based web application that simulates a dice g
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Josh-Techie/dice-game-react.git
+   https://github.com/Josh-techie/Dice_Game
     ```
 
 ## Use the  App
+
    - This is the main page:
     ![Alt text](image.png)
 
    - After rolling you get the following:
    ![Alt text](image-1.png)
 
-   ## Keep in mind the winnig face is 4:
+## Keep in mind the winnig face is 4:
 
    - After, rolling I get the corresponding face: 
    ![Alt text](image-2.png)
