@@ -27,7 +27,7 @@ The Dice Game component is a React-based web application that simulates a dice g
  -- The main page of the dice game:
 
  
-    ![Alt text](image-5.png)
+   ![Alt text](image-5.png)
 
 ### After rolling you get the following:
    ![Alt text](image-1.png)
